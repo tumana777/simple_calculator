@@ -22,4 +22,4 @@ def test_square():
     assert square(2) == 4
 
 def test_power():
-    assert power(2, 3) == 7
+    assert power(2, 3) == 8
