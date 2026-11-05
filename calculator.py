@@ -14,3 +14,6 @@ def divide(x, y):
         raise ValueError("Cannot divide by zero")
 
     return x / y
+
+def square(x):
+    return x * x
